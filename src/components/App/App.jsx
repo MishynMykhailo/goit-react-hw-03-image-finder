@@ -1,5 +1,5 @@
 import ImageGallery from 'components/ImageGallery';
-import Modal from 'components/Modal';
+// import Modal from 'components/Modal';
 import Searchbar from 'components/Searchbar';
 import { Component } from 'react';
 import { Watch } from 'react-loader-spinner';
